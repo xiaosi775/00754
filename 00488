@@ -1,0 +1,46 @@
+Hi xiao,
+
+ 
+
+We are reaching out to notify you about the scheduled maintenance time of the Infura Optimism mainnet endpoints during the Bedrock upgrade.
+
+ 
+
+Optimism Maintenance Notice for June 6th 2023
+
+ 
+
+Please note: Optimism will be in read only state with an expected decrease in performance during the mainnet bedrock upgrade.
+
+ 
+
+The upgrade takes place on June 6th 2023 from 16:00 UTC and will run for approximately 4 hours
+
+ 
+
+Please note the following during the upgrade.
+
+Transactions, deposits, and withdrawals will be unavailable for the duration of the downtime, and the OP Mainnet chain will not be progressing.
+Read access across most OP Mainnet nodes will stay online, but may see a slight decrease in performance during the migration process.
+ 
+
+NOTE: Regular users will not need to take any actions related to the upgrade beyond preparing for the estimated 4 hours of read only state.
+
+ 
+
+Please keep an eye on our Infura status page https://status.infura.io/ for the latest information regarding the Optimism Bedrock upgrade.
+
+ 
+
+Also please visit the OPs lab Bedrock Mission Control public notion page here.
+
+ 
+
+Please feel free to reach out to us at support@infura.io if you have any questions or feedback.
+
+ 
+
+
+Infura Team
+
+ 
