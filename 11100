@@ -1,0 +1,21 @@
+代码相似度检测相关软件：
+
+1.NiCad Clone Detector 
+
+NiCad Clone Detector 是一个灵活的基于 TXL 的混合语言敏感/文本比较软件克隆检测系统，由James R. Cordy和Chanchal K. Roy开发，最初是基于Chanchal的博士论文工作。NiCad5是一个重要的新实现，有许多重要的改进和优化。
+NiCad克隆检测是一个可扩展的、灵活的克隆检测工具，设计用于实现NiCad(自动检测接近遗漏的有意克隆)混合克隆检测方法，它是一种方便、易于使用的命令行工具，可以很容易地嵌入IDE和其他环境中。它接受一个或多个源目录作为输入，以检查克隆和指定要进行的规范化和过滤的配置文件，并以XML形式提供输出结果，以便于分析，同时以HTML web页面报告的形式提供输出结果，以便于浏览。
+NiCad5处理一系列的语言，包括C、Java、Python、c#、PHP、Ruby、ATL和WSDL，并提供一系列的规范化、过滤器和抽象。它被设计为使用基于组件的插件体系结构易于扩展。它可以扩展到非常大的系统，并被用来分析，例如，所有47个FreeBSD版本(6000万行)作为一个单一的系统。
+源码地址：http://www.txl.ca/txl-nicaddownload.html
+ 
+
+国内网站  https://copycat.gitee.com 可以在线检测。
+
+ 
+
+2.斯坦福moss
+
+地址: http://theory.stanford.edu/~aiken/moss/
+
+Moss是斯坦福开发的一个软件抄袭检查工具。这个工具对代码进行语义分析和特征分析，所以对原始代码进行简单的重命名和重构是根本没有用的。经过实验，对所有变量函数重命名、重构之后Moss仍然能发现70%的相似性.
+
+moss使用方法：https://blog.csdn.net/henu_1710252529/article/details/101130242
